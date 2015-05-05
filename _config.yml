@@ -9,7 +9,7 @@ name: Theo Phillips
 description: Developer Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: http://img.photobucket.com/albums/v509/DeckTyrant/IMG_1420_zpsdhjpcyc7.jpg
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: tphil
+  github: theoapps
   instagram:
-  linkedin: 175199147
+  linkedin: https://www.linkedin.com/pub/theo-phillips/4a/810/48b
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: theoapps
