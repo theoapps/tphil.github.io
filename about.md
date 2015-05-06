@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Lifelong technology user looking to share my ideas and build cool stuff. My current focus is in mobile/web app development. Also have interests in analytics, machine learning, video games, and virtual reality.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[https://twitter.com/theoapps](https://twitter.com/theoapps)
