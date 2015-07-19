@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Lifelong technology user looking to share my ideas and build cool stuff. My current focus is in mobile/web app development. Also have interests in analytics, machine learning, video games, and virtual reality.
+Hello, my name is Theo Phillips and this is my Dev/Project blog site. Currently I work as a software engineer in Irvine, California. My biggest interests are in gaming, social networking, machine learning, analytics, and VR. Stay tuned to this site for my project news and announcements. If you have any feedback please tweet and follow me @theoapps. Thanks!
 
 ### Contact me
 
