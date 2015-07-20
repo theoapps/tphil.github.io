@@ -9,3 +9,5 @@ Hello, my name is Theo Phillips and this is my Dev/Project blog site. Currently 
 ### Contact me
 
 [https://twitter.com/theoapps](https://twitter.com/theoapps)
+
+[http://theoapps.deviantart.com/](http://theoapps.deviantart.com/)
