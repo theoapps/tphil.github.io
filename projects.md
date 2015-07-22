@@ -23,7 +23,7 @@ Obligatory zombie game. Very addicting and lots of delicious pixel gore!
 
 <br><br>
 ### iNuke (2010)
-Maps + Virtual Nukes = ???
+Pinchable Maps + Virtual Nukes = ???
 
 <a href="https://itunes.apple.com/us/app/inuke/id413022208?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a1.mzstatic.com/us/r30/Purple/v4/a3/7f/af/a37faf51-b606-a44f-4e77-2114d878e7f1/icon175x175.png" style="height:100%;width:100%"></a>
 
@@ -43,7 +43,7 @@ Personalized rune spreads to help bring new perspectives to your day to day!
 
 <br><br>
 ### iRate-a-Date (2009)
-Could your date have a toxic personality disorder? Better safe than sorry!
+Could your date have a toxic personality disorder? Take the test!
 
 <a href="https://itunes.apple.com/us/app/irate-a-date/id330329987?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a5.mzstatic.com/us/r30/Purple/v4/b4/8a/d9/b48ad939-53dd-cd81-3661-8da0e3c38614/icon175x175.png" style="height:100%;width:100%"></a>
 
