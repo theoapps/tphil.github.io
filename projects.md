@@ -28,14 +28,14 @@ Maps + Virtual Nukes = ???
 <a href="https://itunes.apple.com/us/app/inuke/id413022208?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a1.mzstatic.com/us/r30/Purple/v4/a3/7f/af/a37faf51-b606-a44f-4e77-2114d878e7f1/icon175x175.png" style="height:100%;width:100%"></a>
 
 <br><br>
-### My Pet App (2009)
+### My Pet App (2010) / My Medieval App (2011)
 Pet rock goes mobile! Featuring fun mini games, innovative controls, and loads of customizations.
 
 <a href="https://itunes.apple.com/us/app/my-pet-app/id359079157?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a2.mzstatic.com/us/r30/Purple/v4/2a/ee/98/2aee98aa-4b0b-c81a-1398-dc11de82aff7/icon175x175.png" style="height:100%;width:100%"></a>
 <a href="https://itunes.apple.com/us/app/my-medieval-app/id478914966?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a3.mzstatic.com/us/r30/Purple/v4/78/b5/79/78b5792f-0e4c-dd78-9c69-60c2393d7936/icon175x175.png" style="height:100%;width:100%"></a>
 
 <br><br>
-### Runes (2009)
+### Viking Runes (2009) / Elven Runes (2010)
 Personalized rune spreads to help bring new perspectives to your day to day!
 
 <a href="https://itunes.apple.com/us/app/viking-runes/id346993180?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a1.mzstatic.com/us/r30/Purple/v4/42/51/01/42510167-f4c3-ece0-c495-fba2a1d64480/icon175x175.png" style="height:100%;width:100%"></a>
