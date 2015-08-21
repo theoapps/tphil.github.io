@@ -13,8 +13,7 @@ The symmetrical box drawing app! Simple concept, awesome doodles. Tons of featur
 
 <br><br>
 ### Sage Mobile Sales (2013-2015)
-The symmetrical box drawing app! Simple concept, awesome doodles. Tons of features to come in the future.
-
+Mobile sales app for small and medium sized businesses. Sync large data sets from on premise accounting systems, create/submit sales orders, collect payments, and view aggregated sales/inventory figures. 
 <a href="https://itunes.apple.com/us/app/sage-erp-mobile-sales/id627466411" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a3.mzstatic.com/us/r30/Purple5/v4/35/35/a5/3535a516-1748-e5ec-d24b-00f3132708db/icon175x175.png" style="height:100%;width:100%"></a>
 <a href="https://itunes.apple.com/us/app/sage-mobile-sales/id934022512" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a1.mzstatic.com/us/r30/Purple1/v4/f0/ee/82/f0ee82ff-5c5d-5c79-0c37-13a9cd2925b9/icon175x175.png" style="height:100%;width:100%"></a>
 
