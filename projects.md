@@ -20,7 +20,7 @@ Mobile sales app for small and medium sized businesses. Sync large data sets fro
 
 <br><br>
 ### iHowl (2012)
-Location-based message broadcasting for iOS. To be resurrected in the future.
+Anonymous location-based message broadcasting for iOS. Push notifications and all. To be resurrected in the future.
 
 <br><br>
 ### Zombie Outpost (2011)
