@@ -20,11 +20,11 @@ Mobile sales app for small and medium sized businesses. Sync large data sets fro
 
 <br><br>
 ### iHowl (2012)
-Anonymous location-based message broadcasting for iOS. Push notifications and all. To be resurrected in the future.
+Anonymous location-based message broadcasting for iOS. Included push notifications and location services. To be resurrected in the future.
 
 <br><br>
 ### Zombie Outpost (2011)
-Obligatory zombie game. Very addicting and lots of delicious pixel gore!
+Obligatory zombie game. Very addicting game that uses the device's accelerometer as a control. Lots of delicious pixel gore!
 
 <a href="https://itunes.apple.com/us/app/zombie-outpost/id451034437?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a2.mzstatic.com/us/r30/Purple/v4/64/87/c1/6487c1ac-5e91-1b4f-8e60-6991b8a87727/icon175x175.png" style="height:100%;width:100%"></a>
 
