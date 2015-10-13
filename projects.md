@@ -7,7 +7,7 @@ My various personal iOS projects. Click on the icons to visit their store pages.
 
 <br><br>
 ### boqart (2015)
-The symmetrical box drawing app! Lets anyone draw a sweet piece of abstract art in minutes. My first app written in Swift and for the Apple Watch. Soon will be releasing sharing features that allow users to collect analytics on their drawings from each other.
+THE symmetrical box drawing app. Provides a canvas that auto-symmetrizes your brush strokes, which makes it surprisingly easy to create super cool pieces of abstract art. Has functionality for users to save and export their drawings to email/text/instagram/twitter/facebook. Users can also share, download, and rate drawings with each other inside the app. Currently using Apple's Cloudkit as a backend for this. Additionally users can dynamisize their collections with colors, watch them animate, and view them on the companion Apple Watch app. 
 
 <a href="https://itunes.apple.com/us/app/boq/id989616863?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a3.mzstatic.com/us/r30/Purple6/v4/63/63/c6/6363c683-519e-977e-bcd7-5f1bff55d0c8/icon175x175.png" style="height:100%;width:100%"></a>
 
