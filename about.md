@@ -10,4 +10,4 @@ Hello, my name is Theo Phillips and this is my Dev/Project blog site. Currently 
 
 [https://twitter.com/theoapps](https://twitter.com/theoapps)
 
-[http://theoapps.deviantart.com/](http://theoapps.deviantart.com/)
+[https://www.instagram.com/theo.apps/](https://www.instagram.com/theo.apps/)
