@@ -14,7 +14,7 @@ THE symmetrical box drawing app. Provides a canvas that auto-symmetrizes your br
 
 <br><br>
 ### iHowl (2012)
-Anonymous location-based message broadcasting for iOS. To be resurrected in the future. 
+Anonymous location-based message broadcasting for iOS, using GPS, LAMP backend with web services, and push notifications. Currently working on resurrecting as a more structured social experience. 
 
 <br><br>
 ### Zombie Outpost (2011)
