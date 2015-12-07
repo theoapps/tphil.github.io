@@ -6,6 +6,10 @@ permalink: /projects/
 My various personal iOS projects. Click on the icons to visit their store pages.
 
 <br><br>
+### Molotavs to Midnight (2015)
+An isometric spritekit game I created for the new Apple TV. In the spirit of games like Diablo and Myth, wander around a transforming landscape, fighting undead, collecting supplies, and surviving until midnight! Currently is in review and I am working on porting to iOS platforms.
+
+<br><br>
 ### boqart (2015)
 THE symmetrical box drawing app. Provides a canvas that auto-symmetrizes your brush strokes, which makes it surprisingly easy to create super cool pieces of abstract art. Has functionality for users to save and export their drawings to email/text/instagram/twitter/facebook. Users can also share, download, and rate drawings with each other inside the app. Currently using Apple's Cloudkit as a backend for this. Additionally users can dynamisize their collections with colors, watch them animate, and view them on the companion Apple Watch app. Check out my drawings on my <a href="http://www.boqart.com">website</a> and <a href="https://www.instagram.com/theo.apps/">instagram</a>.
 
