@@ -7,7 +7,7 @@ My various personal iOS projects. Click on the icons to visit their store pages.
 
 <br><br>
 ### Molotavs to Midnight (2015)
-An isometric spritekit game I created for iOS and Apple TV. In the spirit of games like Diablo and Myth, wander around a transforming landscape, fighting undead, collecting supplies, and surviving until midnight! Uses intuitive swipe and tap gestures for controls. Features realistic music, sounds, animations, death/explosion effects.
+An isometric spritekit game I created for iOS and Apple TV. In the spirit of games like Diablo and Myth, wander around a transforming landscape, fighting undead, collecting supplies, and surviving until midnight! Uses intuitive swipe and tap gestures for controls. Features realistic music, sounds, animations, and death/explosion effects.
 
 <a href="https://itunes.apple.com/us/app/molotavs-to-midnight/id1065326654?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a3.mzstatic.com/us/r30/Purple69/v4/c2/cc/ab/c2ccab68-2f2b-b9eb-cec9-5e87d3d4b29c/icon175x175.jpeg" style="height:100%;width:100%"></a>
 
