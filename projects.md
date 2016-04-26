@@ -6,10 +6,19 @@ permalink: /projects/
 My various personal iOS projects. Click on the icons to visit their store pages.
 
 <br><br>
+### Viking Runes / Elven Runes (2016)
+Runes are based on ancient alphabets inscribed on stones, used by many for runic divination. These apps provide all the tools needed to engage in that experience. In addition they make heavy use of CoreGraphics, CoreAnimation, and SpriteKit to totally immerse users into a mystical aesthetic. Gesture Recognizers and iPhone6S Force Touch as well. Users can additionally share pictures of their rune spreads on social media, save to a journal with notes, and get runes on their Apple Watch. These apps reuse each others code while providing their own unique resources.
+
+<a href="https://itunes.apple.com/us/app/viking-runes/id346993180?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a1.mzstatic.com/us/r30/Purple/v4/42/51/01/42510167-f4c3-ece0-c495-fba2a1d64480/icon175x175.png" style="height:100%;width:100%"></a>
+<a href="https://itunes.apple.com/us/app/elven-runes/id376531299?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a4.mzstatic.com/us/r30/Purple/v4/59/d7/f9/59d7f9dd-f235-498d-461f-aa19e366f438/icon175x175.png" style="height:100%;width:100%"></a>
+
+
+<br><br>
 ### Molotavs to Midnight (2015)
-An isometric spritekit game I created for iOS and Apple TV. In the spirit of games like Diablo and Myth, wander around a transforming landscape, fighting undead, collecting supplies, and surviving until midnight! Uses intuitive swipe and tap gestures for controls. Features realistic music, sounds, animations, and death/explosion effects.
+An isometric spritekit game I created for iOS and Apple TV. In the spirit of games like Diablo and Myth, wander around a deteriorating landscape, fighting undead, collecting supplies, and surviving until midnight! Uses intuitive swipe and tap gestures for controls. Features realistic music, sounds, animations, and death/explosion effects.
 
 <a href="https://itunes.apple.com/us/app/molotavs-to-midnight/id1065326654?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a3.mzstatic.com/us/r30/Purple69/v4/c2/cc/ab/c2ccab68-2f2b-b9eb-cec9-5e87d3d4b29c/icon175x175.jpeg" style="height:100%;width:100%"></a>
+
 
 <br><br>
 ### boqart (2015)
@@ -41,12 +50,6 @@ Pet rock goes mobile! Featuring fun mini games, innovative controls, and loads o
 <a href="https://itunes.apple.com/us/app/my-pet-app/id359079157?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a2.mzstatic.com/us/r30/Purple/v4/2a/ee/98/2aee98aa-4b0b-c81a-1398-dc11de82aff7/icon175x175.png" style="height:100%;width:100%"></a>
 <a href="https://itunes.apple.com/us/app/my-medieval-app/id478914966?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a3.mzstatic.com/us/r30/Purple/v4/78/b5/79/78b5792f-0e4c-dd78-9c69-60c2393d7936/icon175x175.png" style="height:100%;width:100%"></a>
 
-<br><br>
-### Viking Runes (2009) / Elven Runes (2010)
-Personalized rune spreads to help bring new perspectives to your day to day!
-
-<a href="https://itunes.apple.com/us/app/viking-runes/id346993180?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a1.mzstatic.com/us/r30/Purple/v4/42/51/01/42510167-f4c3-ece0-c495-fba2a1d64480/icon175x175.png" style="height:100%;width:100%"></a>
-<a href="https://itunes.apple.com/us/app/elven-runes/id376531299?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a4.mzstatic.com/us/r30/Purple/v4/59/d7/f9/59d7f9dd-f235-498d-461f-aa19e366f438/icon175x175.png" style="height:100%;width:100%"></a>
 
 <br><br>
 ### iRate-a-Date (2009)
