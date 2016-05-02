@@ -9,8 +9,10 @@ My various personal iOS projects. Click on the icons to visit their store pages.
 ### Viking Runes / Elven Runes (2016)
 Used by many for runic divination and other traditions, runes are stones inscribed with the letters of ancient alphabets. These apps provide all the tools needed to engage in that experience while immersing the user into a mystical/spiritual aesthetic (with the help of CoreGraphics, CoreAnimation, and SpriteKit). Gesture Recognizers and iPhone6S Force Touch are used as well to provide highly immersive user interaction effects. Additional features include sharing pictures of rune spreads on social media, saving to a journal with notes, and casting runes on the Apple Watch. These apps reuse each others code while providing their own unique resources.
 
-<a href="https://itunes.apple.com/us/app/viking-runes/id346993180?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a1.mzstatic.com/us/r30/Purple/v4/42/51/01/42510167-f4c3-ece0-c495-fba2a1d64480/icon175x175.png" style="height:100%;width:100%"></a>
-<a href="https://itunes.apple.com/us/app/elven-runes/id376531299?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a4.mzstatic.com/us/r30/Purple/v4/59/d7/f9/59d7f9dd-f235-498d-461f-aa19e366f438/icon175x175.png" style="height:100%;width:100%"></a>
+<a href="https://itunes.apple.com/us/app/viking-runes/id346993180?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img
+src="http://a2.mzstatic.com/us/r30/Purple4/v4/5f/c3/bf/5fc3bf69-ca9d-1548-0f5a-b201e6421da0/icon175x175.png" style="height:100%;width:100%"></a>
+<a href="https://itunes.apple.com/us/app/elven-runes/id376531299?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img
+src="http://a5.mzstatic.com/us/r30/Purple30/v4/90/98/8f/90988f9c-5ca7-5937-44d1-7e2a5f6b156b/icon175x175.png" style="height:100%;width:100%"></a>
 
 
 <br><br>
