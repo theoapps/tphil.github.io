@@ -6,6 +6,13 @@ permalink: /projects/
 My various personal iOS projects. Click on the icons to visit their store pages.
 
 <br><br>
+### evra1 (2016)
+evra1 is a local messaging app for people to social network without sacrificing their right to anonymity. Users join a group chat based on their location so they can talk to and meet people online who live nearby. A range of conversation subjects are provided and users have the ability to private message each other. No registration is required and usernames are optional. Client app written natively for iOS in swift. Backend written in Java with the Jersey framework.
+
+<a href="https://itunes.apple.com/us/app/evra1/id585910994?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img
+src="http://a5.mzstatic.com/us/r30/Purple30/v4/65/1d/7f/651d7f42-bc56-634f-7009-0147aaa08951/icon175x175.png" style="height:100%;width:100%"></a>
+
+<br><br>
 ### Viking Runes / Elven Runes (2016)
 Used by many for runic divination and other traditions, runes are stones inscribed with the letters of ancient alphabets. These apps provide all the tools needed to engage in that experience while immersing the user into a mystical/spiritual aesthetic (with the help of CoreGraphics, CoreAnimation, and SpriteKit). Gesture Recognizers and iPhone6S Force Touch are used as well to provide highly immersive user interaction effects. Additional features include sharing pictures of rune spreads on social media, saving to a journal with notes, and casting runes on the Apple Watch. These apps reuse each others code while providing their own unique resources.
 
@@ -28,10 +35,6 @@ THE symmetrical box drawing app. Provides a canvas that auto-symmetrizes your br
 
 
 <a href="https://itunes.apple.com/us/app/boq/id989616863?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a3.mzstatic.com/us/r30/Purple6/v4/63/63/c6/6363c683-519e-977e-bcd7-5f1bff55d0c8/icon175x175.png" style="height:100%;width:100%"></a>
-
-<br><br>
-### iHowl (2012)
-Anonymous location-based message broadcasting for iOS, using GPS, LAMP backend with web services, and push notifications. Currently working on resurrecting as a more structured social experience. 
 
 <br><br>
 ### Zombie Outpost (2011)
