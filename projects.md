@@ -58,8 +58,6 @@ Pet rock goes mobile! Featuring fun mini games, innovative controls, and loads o
 
 <br><br>
 ### iRate-a-Date (2009)
-Could your date have a toxic personality disorder? Take the test!
+Could your date have a toxic personality disorder? Take the test! (Yes, I had no idea how to choose a marketable product name in 2009. RIP.)
 
 <a href="https://itunes.apple.com/us/app/irate-a-date/id330329987?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a5.mzstatic.com/us/r30/Purple/v4/b4/8a/d9/b48ad939-53dd-cd81-3661-8da0e3c38614/icon175x175.png" style="height:100%;width:100%"></a>
-
-{{ post.content }}
