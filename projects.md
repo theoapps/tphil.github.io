@@ -44,7 +44,7 @@ Obligatory zombie game. Very addicting game that uses the device's accelerometer
 
 <br><br>
 ### iNuke (2010)
-Pinchable Maps + Virtual Nukes. In 2017 I did a complete rehaul of this app using SpriteKit, only to have Apple decide that this app's concept is hate speech (despite good reviews and thousands of paid downloads over seven years). This is the progress of the world you live in today.
+Pinchable Maps + Virtual Nukes = ???
 
 <a href="https://itunes.apple.com/us/app/inuke/id413022208?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="http://a1.mzstatic.com/us/r30/Purple/v4/a3/7f/af/a37faf51-b606-a44f-4e77-2114d878e7f1/icon175x175.png" style="height:100%;width:100%"></a>
 
