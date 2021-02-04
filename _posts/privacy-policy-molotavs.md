@@ -1,3 +1,3 @@
 Molotavs to Midnight Privacy Policy
 
-This app collects zero data from the user's device :)
+This app respects your privacy and does not collect any of your data.
