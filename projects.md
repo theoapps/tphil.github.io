@@ -20,7 +20,7 @@ src="https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/63/1e/1c/631e1cfc-42f7
 ### evra1 (2016)
 evra1 is a local messaging app for people to social network without sacrificing their right to anonymity. Users join a group chat based on their location so they can talk to and meet people online who live nearby. A range of conversation subjects are provided and users have the ability to private message each other. No registration is required and usernames are optional. Client app written natively for iOS in swift. Backend written in Java with the Jersey framework.
 
-<a href="https://apps.apple.com/us/app/molotavs-to-midnight/id1065326654#?platform=iphone" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img
+<a href="https://apps.apple.com/us/app/evra1/id585910994" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img
 src="https://is3-ssl.mzstatic.com/image/thumb/Purple18/v4/a8/9a/b2/a89ab2cb-bc21-1f97-69d8-677eba726e1e/pr_source.png/292x0w.png" style="height:100%;width:100%"></a>
 
 
