@@ -33,10 +33,10 @@ An isometric spritekit game I created for iOS and Apple TV. In the spirit of gam
 
 <br><br>
 ### boqart (2015)
-THE symmetrical box drawing app. Provides a canvas that auto-symmetrizes your brush strokes, which makes it surprisingly easy to create super cool pieces of abstract art. Has functionality for users to save and export their drawings to email/text/instagram/twitter/facebook. Users can also share, download, and rate drawings with each other inside the app. Currently using Apple's Cloudkit as a backend for this. Additionally users can dynamisize their collections with colors, watch them animate, and view them on the companion Apple Watch app. Check out my drawings on my <a href="http://www.boqart.com">website</a> and <a href="https://www.instagram.com/theo.apps/">instagram</a>.
+THE symmetrical box drawing app. Provides a canvas that lets you auto-symmetrizes your brush strokes to create cool abstract art, as well as a normal drawing mode. Users can then save their drawing and view them in various dynamic/animated galleries inclusing on Apple Watch. They can also export to photos, email, or sms. Check out my drawings on my <a href="http://www.boqart.com">website</a> and <a href="https://www.instagram.com/theo.apps/">instagram</a>.
 
 
-<a href="https://itunes.apple.com/us/app/boq/id989616863?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8f/b3/bc/8fb3bceb-904b-3a20-fb90-0a769738e23d/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/292x0w.png" style="height:100%;width:100%"></a>
+<a href="https://itunes.apple.com/us/app/boq/id989616863?mt=8" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img src="https://i.ibb.co/cCXYYt5/Optional-boqart.png" style="height:100%;width:100%"></a>
 
 <br><br>
 ### Zombie Outpost (2011)
