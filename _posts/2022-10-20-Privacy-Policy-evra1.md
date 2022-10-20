@@ -3,7 +3,7 @@ layout: post
 title: evra1 Privacy Policy
 ---
 
-Your privacy is important to us. It is evra1's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, <a href="evra1.com">evra1.com</a>, and other sites we own and operate. Information we collect includes both information you knowingly and actively provide us when using or participating in any of our services and promotions, and any information automatically sent by your devices in the course of accessing our products and services. 
+Your privacy is important to us. It is evra1's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, <a href="https://evra1.com">evra1.com</a>, and other sites we own and operate. Information we collect includes both information you knowingly and actively provide us when using or participating in any of our services and promotions, and any information automatically sent by your devices in the course of accessing our products and services. 
 
 <h3>Information We Collect</h3>
 The only information we collect are the messages you send using the evra1 app. This includes usernames, dates, message text, and coarse location coordinates.
