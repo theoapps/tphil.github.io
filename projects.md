@@ -7,7 +7,7 @@ My various personal iOS projects. Click on the icons to visit their store pages.
 
 <br><br>
 ### Timer King X (2016-present)
-An app to augment playing various video games involving respawn times. Provides various specialized timers with customizable alert settings and animated time visualizations. Built natively with SwiftUI and CoreGraphics.
+An app to augment playing various video games involving respawn times. Provides three specialized timer types with customizable alert settings and animated time visualizations. Built natively with SwiftUI and CoreGraphics.
 
 <a href="https://apps.apple.com/us/app/timerkingx" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img
 src="[https://is3-ssl.mzstatic.com/image/thumb/Purple18/v4/a8/9a/b2/a89ab2cb-bc21-1f97-69d8-677eba726e1e/pr_source.png/292x0w.png](https://i.ibb.co/5xMSBNs/timerkingx7.png)" style="height:100%;width:100%"></a>
