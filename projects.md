@@ -10,7 +10,7 @@ My various personal iOS projects. Click on the icons to visit their store pages.
 An app to augment playing various video games involving respawn times. Provides three specialized timer types with customizable alert settings and animated time visualizations. Built natively with SwiftUI and CoreGraphics.
 
 <a href="https://apps.apple.com/us/app/timerkingx" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img
-src="[https://is3-ssl.mzstatic.com/image/thumb/Purple18/v4/a8/9a/b2/a89ab2cb-bc21-1f97-69d8-677eba726e1e/pr_source.png/292x0w.png](https://i.ibb.co/5xMSBNs/timerkingx7.png)" style="height:100%;width:100%"></a>
+src="https://i.ibb.co/5xMSBNs/timerkingx7.png" style="height:100%;width:100%"></a>
 
 messaging app for anonymously chatting with people near you. Simply choose a location and a topic and you're all set to join the conversation! No registration is required. You can easily change your username, location, and radius for each of your message broadcasts. If you would like to send a private message to someone just tap on one of their messages. Client app written natively for iOS in Swift with UIKit. Backend written in Java with the Jersey framework.
 
