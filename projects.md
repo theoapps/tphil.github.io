@@ -6,7 +6,7 @@ permalink: /projects/
 My various personal iOS projects. Click on the icons to visit their store pages.
 
 <br><br>
-### Timer King X (2016-present)
+### Timer King X (2023-present)
 An app to augment playing various video games involving respawn times. Provides three specialized timer types with customizable alert settings and animated time visualizations. Built natively with SwiftUI and CoreGraphics.
 
 <a href="https://apps.apple.com/us/app/timerkingx" target="itunes_store" style="display:inline-block;overflow:hidden;width:50px;height:50px;"><img
